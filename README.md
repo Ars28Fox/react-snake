@@ -1,4 +1,4 @@
-# React Snake project
+# React Snake study project
 
 commands:
 * npm start - start dev;
