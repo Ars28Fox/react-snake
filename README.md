@@ -6,7 +6,7 @@ commands:
 
 [Demo link](https://ars28fox.github.io/react-snake/)
 
-Выполнено с помощью стандартного create-react-app
+Выполнено с помощью стандартного create-react-app в рамках вебинара.
 
 В ходе учебного проекта была создана игра змейка.
 
